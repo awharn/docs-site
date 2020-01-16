@@ -1,4 +1,31 @@
-# Zowe Documentation
+# Zowe documentation
+
+Welcome to the repo for the Zowe documentation! This repo is the source for [https://docs.zowe.org](https://docs.zowe.org). 
+
+Zowe documentation is completely open source and we appreciate contributions from the community.
+
+## Table of contents
+
+- Providing feedback
+
+## Providing feedback
+
+Your feedback is essential in shaping the Zowe content experience. There are several ways to provide feedback: 
+- If you see something incorrect or confusing in the docs, or have an enhancement idea to make the docs better, you can edit a page by clicking "Propose content changes" at the footer to [open a Pull Request](https://docs.zowe.org/stable/contribute/contributing.html#sending-a-github-pull-request). You can also [open a GitHub issue](https://docs.zowe.org/stable/contribute/contributing.html#opening-an-issue-for-the-documentation) for the documentation team. 
+- You can take an [online survey](https://forms.gle/Ztu9AjgV6HRr1kEs9) and tell us how you think about the docs. 
+- You can also rate the experience and leave comments when an NPS survey pops up on the doc site. 
+- If you have a question about docs, you can join the Zowe [#zowe-doc Slack channel](https://openmainframeproject.slack.com/archives/CC961JYMQ) and talk directly with the documentation team and the community. 
+
+Only file issues about the Zowe docs in this repository. For issues, questions, new feature requests, or enhancement ideas about a specific component or aspect of Zowe, open an issue in the [corresponding code repository](https://github.com/zowe/community#zowe-sub-projects) or ask in the [community Slack channels](https://github.com/zowe/community#slack).
+
+## Contributing to the docs
+
+You can click the **Fork** button in the upper-right area of the screen to create a copy of this repository in your GitHub account. You can make doc changes in your fork, and when the changes are ready, go to your fork and create a new pull request to send the changes to us. 
+
+After that, a Zowe documentation reviewer will review your PR and provide feedback. The doc reviewer might ask for a technical review from a Zowe tech reviewer depending on the specific changes in the PR. 
+
+For more information about contributing to the Zowe documentation, see:
+- [Zowe documentation style guide](https://docs.zowe.org/stable/contribute/contributing.html#documentation-style-guide)
 
 ## Development
 
